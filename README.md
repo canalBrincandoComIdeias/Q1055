@@ -1,7 +1,7 @@
 # Q1055
 **Como Programar Controle Remoto para o Arduino via Bluetooth?**
 
-Projeto do Vídeo Q1053 Série **_Trilha Do Inventor_** powered by **_Petrobras_**
+Projeto do Vídeo Q1055 Série **_Trilha Do Inventor_** powered by **_Petrobras_**
 
 :video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/XzafWbIs1c0)
 
